@@ -27,11 +27,17 @@ ATM Console Based Application performs the common operations like show balance, 
 ## Execution
 - Download and install Java in your Machine
 - setup the environmental variable
+  ```
   $ C:\Program Files\Java\jdk1.8.0_351\bin
+  ```
 - Download the ATMmain code
 - open cmd with the ATMmain code present location
 - compile
+  ```
   $ javac ATMmain.java
+  ```
 - run
+  ```
   $ java ATMmain
+  ```
 - Runs on Console...
